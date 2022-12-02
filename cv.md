@@ -117,6 +117,15 @@ See the <a href="../publications">publications</a> page.
     ITiMIS Science Salon, University of Michigan (USA)
 </p>
 
+<p style="text-align:left;">
+    <strong>Metagenomic exploration of eukaryotic abundance and diversity in drinking water distribution systems</strong>
+    <span style="float:right;">
+        <em>9<sup>th</sup> November 2022</em>
+    </span>
+    <br>
+    Eawag (CH)
+</p>
+
 
 ## Teaching and related experiences
 <p style="text-align:left;">

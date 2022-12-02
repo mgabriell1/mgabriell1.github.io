@@ -76,4 +76,8 @@ Xenowac II, Limassol, Cyprus, 10<sup>th</sup> - 12<sup>th</sup> October 2018.
 
 <strong>Adapting Bandit Algorithms for Settings with Sequentially Available Arms</strong> \
 <u>Gabrielli M.</u>, Trovò F., Antonelli M. \
-Arxiv. 2021. arXiv:2109.15228. 
+Arxiv. 2021. arXiv: <a href="https://arxiv.org/abs/2109.15228">2109.15228</a>
+
+<strong>Identifying eukaryotes in drinking water metagenomes and factors influencing their biogeography</strong> \
+<u>Gabrielli M.</u>,  Dai Z., Delafont V., Timmers P., van der Wielen P. W.J.J., Antonelli M., Pinto A. \
+bioRxiv. 2022. biorxiv:2022.11.29.518372. DOI: <a href="https://doi.org/10.1101/2022.11.29.518372">10.1101/2022.11.29.518372 </a>
