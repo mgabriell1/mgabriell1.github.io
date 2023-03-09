@@ -7,6 +7,18 @@ permalink: /publications/
 # Publications
 ## Peer-reviewd articles
 
+<strong>An integrated human health risk assessment framework for alkylphenols due to drinking water and crops' food consumption</strong> \
+Penserini L., Cantoni B., <u>Gabrielli M.</u>, Sezenna E., Saponaro S., Antonelli M. \
+Chemosphere. In press. 2023. DOI: <a href="https://doi.org/10.1016/j.chemosphere.2023.138259"">10.1016/j.chemosphere.2023.138259</a>
+
+<strong>Identifying eukaryotes and factors influencing their biogeography in drinking water metagenomes </strong> \
+<u>Gabrielli M.</u>, Dai Z., Delafont V., Timmers P H.A., van der Wielen P.W.J.J., Antonelli M., Pinto A.J. \
+Environmental Science & Technology, 2023, 57, 9, 3645–3660. 2023. DOI: <a href="https://doi.org/10.1021/acs.est.2c09010">10.1021/acs.est.2c09010</a>
+
+<strong>Gradual Recovery of Building Plumbing-Associated Microbial Communities after Extended Periods of Altered Water Demand during the COVID-19 Pandemic</strong> \
+Vosloo S., Huo L., Chauhan U., Cotto I., Gincley B., Vilardi K.J., Yoon B., Bian K., <u>Gabrielli M.</u>, Pieper K.J., Stubbins A., Pinto A.J. \ 
+Environmental Science & Technology, 2023, 57, 8, 3248-3259. DOI: <a href="https://doi.org/10.1021/acs.est.2c07333">10.1021/acs.est.2c07333</a>
+
 <strong>Modelling and Prediction of the Effect of Operational Parameters on the Fate of Contaminants of Emerging Concern in WWTPs </strong> \
 <u>Gabrielli M.</u>, Delli Compagni R., Gusmaroli L., Malpei F., Polesel F., Buttiglieri G., Antonelli M., Turolla A. \
 Science of the Total Environment, 856, 159200. 2022. DOI: <a href="https://doi.org/10.1016/j.scitotenv.2022.159200">10.1016/j.scitotenv.2022.159200</a>
@@ -79,5 +91,5 @@ Xenowac II, Limassol, Cyprus, 10<sup>th</sup> - 12<sup>th</sup> October 2018.
 Arxiv. 2021. arXiv: <a href="https://arxiv.org/abs/2109.15228">2109.15228</a>
 
 <strong>Identifying eukaryotes in drinking water metagenomes and factors influencing their biogeography</strong> \
-<u>Gabrielli M.</u>,  Dai Z., Delafont V., Timmers P., van der Wielen P. W.J.J., Antonelli M., Pinto A. \
+<u>Gabrielli M.</u>,  Dai Z., Delafont V., Timmers P. H.A., van der Wielen P. W.J.J., Antonelli M., Pinto A. \
 bioRxiv. 2022. biorxiv:2022.11.29.518372. DOI: <a href="https://doi.org/10.1101/2022.11.29.518372">10.1101/2022.11.29.518372 </a>
