@@ -9,7 +9,7 @@ permalink: /publications/
 
 <strong>An integrated human health risk assessment framework for alkylphenols due to drinking water and crops' food consumption</strong> \
 Penserini L., Cantoni B., <u>Gabrielli M.</u>, Sezenna E., Saponaro S., Antonelli M. \
-Chemosphere. In press. 2023. DOI: <a href="https://doi.org/10.1016/j.chemosphere.2023.138259"">10.1016/j.chemosphere.2023.138259</a>
+Chemosphere. In press. 2023. DOI: <a href="https://doi.org/10.1016/j.chemosphere.2023.138259">10.1016/j.chemosphere.2023.138259</a>
 
 <strong>Identifying eukaryotes and factors influencing their biogeography in drinking water metagenomes </strong> \
 <u>Gabrielli M.</u>, Dai Z., Delafont V., Timmers P H.A., van der Wielen P.W.J.J., Antonelli M., Pinto A.J. \
