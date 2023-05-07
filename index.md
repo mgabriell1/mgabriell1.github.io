@@ -3,19 +3,24 @@ layout: home
 title: About me
 ---
 
-<img align="right" src="images/myself.jpg">
+<img style="border:10px solid white;" align="right" src="images/myself.jpg" width=200>
 ## Short bio
-I am a Ph.D. student at Politecnico di Milano (Italy) under the supervision of Dr. Manuela Antonelli. \
-I obtained both my bachelor and my master degree in Environmental and Land Planning Engineering from Politecnico di Milano respectively in 2016 and 2019.
-During my studies I have spent several months during my M.Sc. at the Danmarks Tekniske Universitet (Denmark) to attend courses and complete part of my thesis under the supervision of Dr. Luca Vezzaro and Dr. Stefan Trapp, and, during my Ph.D., at the Georgia Institute of Technology (USA), to carry out research under the supervision of Dr. Ameet Pinto. 
-
+<div style="text-align: justify"> 
+I am a postdoctoral researcher at the Department of Environmental Microbiology at Eawag (Switzerland) in the Drinking Water Microbiology group led by Dr. Frederik Hammes. <br>
+I carried out my Ph.D. at Politecnico di Milano (Italy) under the supervision of Dr. Manuela Antonelli focusing on developing monitoring strategies for drinking water distribution systems and the characterization of the drinking water microbiome and its dynamics. 
+During this period I also visited the Georgia Institute of Technology (USA) to carry out research under the supervision of Dr. Ameet Pinto, applying metagenomics for the characterization of eukaryotic communities in drinking water systems. <br>
+I obtained both my bachelor and my master degree in Environmental and Land Planning Engineering from Politecnico di Milano respectively in 2016 and 2019, completing part of my M.Sc. thesis at Danmarks Tekniske Universitet (Denmark) under the supervision of Dr. Luca Vezzaro and Dr. Stefan Trapp.  
+</div>
 
 ## Research interest
-My research interests revolve around the microbiology of drinking water, with particular focus on the processes and dynamics occurring within its distribution systems, the characterization of lesser-studied microorganisms (e.g., eukaryotes) and the exploitation of advanced data-driven techniques to gain new insights in our data and drive optimize monitoring campaigns, both with respect to space and time. \
-Previous research activities focused on modelling the fate of contaminants of emerging concern in wastewater treatment plants, receiving waters and agricultural fields within the scope of agricultural wastewater reuse.
+<div style="text-align: justify"> 
+My research interests revolve around the microbiology of drinking water, with particular focus on the characterization on the ecology of (micro)organisms, the processes and dynamics occurring within distribution systems and the exploitation of data-driven techniques to optimize monitoring campaigns, both with respect to space and time. <br>
+Previous research activities have been linked to agricultural wastewater reuse focusing on modelling the fate of contaminants of emerging concern in wastewater treatment plants, receiving waters and agricultural fields.
+</div>
 
 ## Contacts
-Email: marco.gabrielli at polimi.it \
+Email: marco.gabrielli at eawag.ch \
 Twitter: <a href="https://twitter.com/MarcoGabriell16">MarcoGabriell16</a> \
 Github: <a href="https://github.com/mgabriell1">mgabriell1</a>
+
 

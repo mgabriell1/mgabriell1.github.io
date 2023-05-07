@@ -5,6 +5,17 @@ permalink: /cv/
 ---
 
 # CV
+## Professional Experience
+<p style="text-align:left;">
+    <strong>Postdoctoral Researcher</strong>
+    <span style="float:right;">
+        <em>May 2023 - to date</em>
+    </span>
+    <br>
+    Department of Environmental Microbiology, Eawag, Switzerland <br>
+    Main topics: characterization of drinking water microbiology with focus on premise plumbings, Legionella and protists
+</p>
+
 ## Education
 
 <p style="text-align:left;">
