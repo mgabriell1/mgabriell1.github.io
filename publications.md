@@ -7,6 +7,10 @@ permalink: /publications/
 # Publications
 ## Peer-reviewd articles
 
+<strong>Source to taps investigation of natural organic matter in non-disinfected drinking water distribution systems</strong> \
+<u>Gabrielli M.</u>, Pulcini F., Barbesti G., Antonelli M. \
+Environmental Science: Water Research & Technology, 2023, Advance Article. DOI: <a href="https://doi.org/10.1039/D3EW00280B ">10.1039/D3EW00280B</a>
+
 <strong>An integrated human health risk assessment framework for alkylphenols due to drinking water and crops' food consumption</strong> \
 Penserini L., Cantoni B., <u>Gabrielli M.</u>, Sezenna E., Saponaro S., Antonelli M. \
 Chemosphere, 325, June 2023, 138259. DOI: <a href="https://doi.org/10.1016/j.chemosphere.2023.138259">10.1016/j.chemosphere.2023.138259</a>
@@ -77,22 +81,26 @@ Xenowac II, Limassol, Cyprus, 10<sup>th</sup> - 12<sup>th</sup> October 2018.
 ## Conference posters
 
 <strong>Establishing a metagenomic workflow for eukaryotic analysis in drinking water system</strong> \
+<u>Gabrielli M.</u>, Dai Z., Delafont V., Timmers P H.A., van der Wielen P.W.J.J., Antonelli M., Pinto A.J. \
+10<sup>th</sup> IWA Microbial Ecology and Water Engineering Specialist Conference, Brisbane, Australia, 10<sup>th</sup> - 14<sup>th</sup> September 2023.
+
+<strong>Comparative analysis of ribosomal and functional genes among <i>Legionella</i> species</strong> \
+<u>Gabrielli M.</u>, Cavallaro A., Hammes F. \
+Swiss Society for Microbiology Annual Congress, Lausanne, Switzerland, 30<sup>th</sup> - 31<sup>st</sup> August 2023.
+
+<strong>Establishing a metagenomic workflow for eukaryotic analysis in drinking water system</strong> \
 <u>Gabrielli M.</u>, Vosloo S., Antonelli M., Pinto P. \
 2022 Association of Environmental Engineering and Science Professors (AEESP) Research and Education Conference, St. Louis, USA, 28<sup>th</sup> - 30<sup>th</sup> June 2022.
 
 <strong>Criticalities in the microbiological monitoring of drinking water distribution systems: what could we do?</strong> \
 <u>Gabrielli M.</u>, Antonelli M. \
-9<sup>th</sup> IWA Microbial Ecology and Water Engineering Specialist Conference: Microbial Ecology Data & Principles for Water Systems and Industries, Delft, Netherlands, 18<sup>th</sup> - 20<sup>th</sup> October 2021.
+9<sup>th</sup> IWA Microbial Ecology and Water Engineering Specialist Conference, Delft, Netherlands, 18<sup>th</sup> - 20<sup>th</sup> October 2021.
 
 ## Pre-prints
 
 <strong>Validation of drinking water distribution monitoring schemes including water demand variability and minimum detectable concentrations</strong> \
 <u>Gabrielli M.</u>, Leoni A., Di Domenico L., Antonelli M. \
 engrXiv. 2023. DOI: <a href="https://doi.org/10.31224/2971">10.31224/2971</a>
-
-<strong>Source to taps investigation of natural organic matter in non-disinfected drinking water distribution systems</strong> \
-<u>Gabrielli M.</u>, Pulcini F., Barbesti G., Antonelli M. \
-ChemRxiv. 2023. DOI: <a href="https://chemrxiv.org/engage/chemrxiv/article-details/644131fae4bbbe4bbff52dfd">10.26434/chemrxiv-2023-9w64x</a>
 
 <strong>Adapting Bandit Algorithms for Settings with Sequentially Available Arms</strong> \
 <u>Gabrielli M.</u>, Trovò F., Antonelli M. \
@@ -102,4 +110,8 @@ Arxiv. 2021. ArXiv: <a href="https://arxiv.org/abs/2109.15228">2109.15228</a>
 <strong>Identifying eukaryotes in drinking water metagenomes and factors influencing their biogeography</strong> \
 <u>Gabrielli M.</u>,  Dai Z., Delafont V., Timmers P. H.A., van der Wielen P. W.J.J., Antonelli M., Pinto A. \
 bioRxiv. 2022. bioRxiv:2022.11.29.518372. DOI: <a href="https://doi.org/10.1101/2022.11.29.518372">10.1101/2022.11.29.518372 </a>
+
+<strong>Source to taps investigation of natural organic matter in non-disinfected drinking water distribution systems</strong> \
+<u>Gabrielli M.</u>, Pulcini F., Barbesti G., Antonelli M. \
+ChemRxiv. 2023. DOI: <a href="https://chemrxiv.org/engage/chemrxiv/article-details/644131fae4bbbe4bbff52dfd">10.26434/chemrxiv-2023-9w64x</a>
 -->
