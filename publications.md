@@ -20,7 +20,7 @@ Penserini L., Cantoni B., <u>Gabrielli M.</u>, Sezenna E., Saponaro S., Antonell
 Chemosphere, 325, June 2023, 138259. DOI: <a href="https://doi.org/10.1016/j.chemosphere.2023.138259">10.1016/j.chemosphere.2023.138259</a>
 
 <strong>Identifying eukaryotes and factors influencing their biogeography in drinking water metagenomes </strong> \
-<u>Gabrielli M.</u>, Dai Z., Delafont V., Timmers P H.A., van der Wielen P.W.J.J., Antonelli M., Pinto A.J. \
+<u>Gabrielli M.</u>, Dai Z., Delafont V., Timmers P.H.A., van der Wielen P.W.J.J., Antonelli M., Pinto A.J. \
 Environmental Science & Technology, 2023, 57, 9, 3645–3660. DOI: <a href="https://doi.org/10.1021/acs.est.2c09010">10.1021/acs.est.2c09010</a>
 
 <strong>Gradual Recovery of Building Plumbing-Associated Microbial Communities after Extended Periods of Altered Water Demand during the COVID-19 Pandemic</strong> \
@@ -58,6 +58,10 @@ Indagine sulla presenza nei comparti acquatici, le tecnologie di contenimento e 
 
 ## Conference presentations
 
+<strong>Comparative analysis of functional genes among <i>Legionella</i> species </strong> \
+<u>Gabrielli M.</u>, Cavallaro A., Hammes F. \
+7th  ESCMID Study Group for Legionella Infections Meeting, Chania, Greece, 23 - 24 October 2023.
+
 <strong>Eukaryotic communities in drinking water distribution systems around the globe: composition and influencing factor</strong> \
 <u>Gabrielli M.</u>, Dai Z., Delafont V., Antonelli M., Pinto A. \
  18<sup>th</sup> International Symposium on Microbial Ecology, Lausanne, Switzerland, 14<sup>th</sup> - 19<sup>th</sup> August 2022.
@@ -83,6 +87,14 @@ Polesel F., Gonzalez M., Delli Compagni R., von Borries K.J.F., Zhang Z., <u>Gab
 Xenowac II, Limassol, Cyprus, 10<sup>th</sup> - 12<sup>th</sup> October 2018.
 
 ## Conference posters
+
+<strong>Identifying eukaryotes and factors influencing their biogeography in drinking water distribution systems metagenomes.</strong> \
+<u>Gabrielli M.</u>, Dai Z., Delafont V., Timmers P.H.A., van der Wielen P.W.J.J., Antonelli M., Pinto A.J. \
+10<sup>th</sup> IWA Microbial Ecology and Water Engineering Specialist Conference, Brisbane, Australia, 10 - 14 September 2023.
+
+<strong>Comparative analysis of ribosomal and functional genes among <i>Legionella</i> species</strong> \
+<u>Gabrielli M.</u>, Cavallaro A., Hammes F. \
+Annual Congress of the Swiss Society for Microbiology, Lausanne, Switzerland, 30 - 31 August 2023.
 
 <strong>Establishing a metagenomic workflow for eukaryotic analysis in drinking water system</strong> \
 <u>Gabrielli M.</u>, Dai Z., Delafont V., Timmers P H.A., van der Wielen P.W.J.J., Antonelli M., Pinto A.J. \
