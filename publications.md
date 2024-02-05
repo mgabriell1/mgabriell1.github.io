@@ -7,9 +7,13 @@ permalink: /publications/
 # Publications
 ## Peer-reviewd articles
 
+<strong>Adapting Bandit Algorithms for Settings with Sequentially Available Arms</strong> \
+<u>Gabrielli M.</u>, Trovò F., Antonelli M. \
+Engineering Applications of Artificial Intelligence, 131, May 2024, 107815. DOI: <a href="https://doi.org/10.1016/j.engappai.2023.107815">10.1016/j.engappai.2023.107815</a>
+
 <strong>Source to taps investigation of natural organic matter in non-disinfected drinking water distribution systems</strong> \
 <u>Gabrielli M.</u>, Pulcini F., Barbesti G., Antonelli M. \
-Environmental Science: Water Research & Technology, 2023, Advance Article. DOI: <a href="https://doi.org/10.1039/D3EW00280B ">10.1039/D3EW00280B</a>
+Environmental Science: Water Research & Technology, 2024,10, 128-143. DOI: <a href="https://doi.org/10.1039/D3EW00280B ">10.1039/D3EW00280B</a>
 
 <strong>An integrated human health risk assessment framework for alkylphenols due to drinking water and crops' food consumption</strong> \
 Penserini L., Cantoni B., <u>Gabrielli M.</u>, Sezenna E., Saponaro S., Antonelli M. \
@@ -102,11 +106,13 @@ Swiss Society for Microbiology Annual Congress, Lausanne, Switzerland, 30<sup>th
 <u>Gabrielli M.</u>, Leoni A., Di Domenico L., Antonelli M. \
 engrXiv. 2023. DOI: <a href="https://doi.org/10.31224/2971">10.31224/2971</a>
 
+
+
+<!---
 <strong>Adapting Bandit Algorithms for Settings with Sequentially Available Arms</strong> \
 <u>Gabrielli M.</u>, Trovò F., Antonelli M. \
 Arxiv. 2021. ArXiv: <a href="https://arxiv.org/abs/2109.15228">2109.15228</a>
 
-<!---
 <strong>Identifying eukaryotes in drinking water metagenomes and factors influencing their biogeography</strong> \
 <u>Gabrielli M.</u>,  Dai Z., Delafont V., Timmers P. H.A., van der Wielen P. W.J.J., Antonelli M., Pinto A. \
 bioRxiv. 2022. bioRxiv:2022.11.29.518372. DOI: <a href="https://doi.org/10.1101/2022.11.29.518372">10.1101/2022.11.29.518372 </a>
