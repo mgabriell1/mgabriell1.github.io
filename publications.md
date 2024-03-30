@@ -114,6 +114,10 @@ Swiss Society for Microbiology Annual Congress, Lausanne, Switzerland, 30<sup>th
 
 ## Pre-prints
 
+<strong>The impact of DNA extraction on the quantification of Legionella, with implications for ecological studies</strong> \
+Cavallaro A., <u>Gabrielli M.</u>, Hammes F., Rhoads W.J. \
+bioRxiv. 2024. DOI: <a href="https://doi.org/10.1101/2024.03.19.585788">10.1101/2024.03.19.585788</a> 
+
 <strong>Validation of drinking water distribution monitoring schemes including water demand variability and minimum detectable concentrations</strong> \
 <u>Gabrielli M.</u>, Leoni A., Di Domenico L., Antonelli M. \
 engrXiv. 2023. DOI: <a href="https://doi.org/10.31224/2971">10.31224/2971</a>
