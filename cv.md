@@ -21,7 +21,7 @@ permalink: /cv/
 <p style="text-align:left;">
     <strong>Ph.D. in Environmental and Infrastructure Engineering</strong>
     <span style="float:right;">
-        <em>November 2019 - to date</em>
+        <em>November 2019 - June 2023</em>
     </span>
     <br>
     Politecnico di Milano, Italy <br>

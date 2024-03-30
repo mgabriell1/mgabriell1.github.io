@@ -14,7 +14,7 @@ I obtained both my bachelor and my master degree in Environmental and Land Plann
 
 ## Research interest
 <div style="text-align: justify"> 
-My research interests revolve around the microbiology of drinking water, with particular focus on the characterization on the ecology of (micro)organisms, the processes and dynamics occurring within distribution systems and the exploitation of data-driven techniques to optimize monitoring campaigns, both with respect to space and time. <br>
+My research interests revolve around the microbiology of drinking water. I am particularly interested in understanding the ecological processes occurring in this environment in order to pave the way for new ecologically-sound management strategies. As required to obtain quality data, I also am interested in the optimization of monitoring campaigns to properly monitor drinking water microbiology. <br>
 Previous research activities have been linked to agricultural wastewater reuse focusing on modelling the fate of contaminants of emerging concern in wastewater treatment plants, receiving waters and agricultural fields.
 </div>
 
