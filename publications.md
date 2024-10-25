@@ -7,6 +7,18 @@ permalink: /publications/
 # Publications
 ## Peer-reviewd articles
 
+<strong>Dynamics of drinking water biofilm formation associated with <i>Legionella</i> spp. colonization</strong> \
+Margot C., Rhoads W.J., <u>Gabrielli M.</u>, Olive M., Hammes F. \
+npj Biofilms Microbiomes 10, 101 (2024). DOI: <a href="https://doi.org/10.1038/s41522-024-00573-x">10.1038/s41522-024-00573-x</a>
+
+<strong>New Drinking Water Genome Catalog Identifies a Globally Distributed Bacterial Genus Adapted to Disinfected Drinking Water Systems</strong> \
+Sudarshan A.S., Dai Z., <u>Gabrielli M.</u>, Oosthuizen-Vosloo S., Konstantinidis K.T., Pinto A.J. \
+Environmental Science & Technology, 2024, 58, 37, 16475–16487. DOI: <a href="https://doi.org/10.1021/acs.est.4c05086">10.1021/acs.est.4c05086</a>
+
+<strong>The impact of DNA extraction on the quantification of <i>Legionella</i>, with implications for ecological studies</strong> \
+Cavallaro A., <u>Gabrielli M.</u>, Hammes F., Rhoads W.J. \
+Microbiology Spectrum 12 (8), 2024, e00713-24. DOI: <a href="https://doi.org/10.1128/spectrum.00713-24">10.1128/spectrum.00713-24</a> 
+
 <strong>Adapting Bandit Algorithms for Settings with Sequentially Available Arms</strong> \
 <u>Gabrielli M.</u>, Trovò F., Antonelli M. \
 Engineering Applications of Artificial Intelligence, 131, May 2024, 107815. DOI: <a href="https://doi.org/10.1016/j.engappai.2023.107815">10.1016/j.engappai.2023.107815</a>
@@ -64,7 +76,7 @@ Indagine sulla presenza nei comparti acquatici, le tecnologie di contenimento e 
 
 <strong>Eukaryotic communities in drinking water distribution systems around the globe: composition and influencing factor</strong> \
 <u>Gabrielli M.</u>, Dai Z., Delafont V., Antonelli M., Pinto A. \
- 18<sup>th</sup> International Symposium on Microbial Ecology, Lausanne, Switzerland, 14<sup>th</sup> - 19<sup>th</sup> August 2022.
+18<sup>th</sup> International Symposium on Microbial Ecology, Lausanne, Switzerland, 14<sup>th</sup> - 19<sup>th</sup> August 2022.
 
 <strong>An integrated human health risk assessment framework for alkylphenols due to drinking water and crops' food consumption</strong> \
 Cantoni B., Penserini L., <u>Gabrielli M.</u>, Sezenna E., Saponaro S., Antonelli M. \
@@ -87,6 +99,10 @@ Polesel F., Gonzalez M., Delli Compagni R., von Borries K.J.F., Zhang Z., <u>Gab
 Xenowac II, Limassol, Cyprus, 10<sup>th</sup> - 12<sup>th</sup> October 2018.
 
 ## Conference posters
+
+<strong>Biofilm spatial heterogeneity in plumbing systems: implications for diversity upscaling</strong> \
+<u>Gabrielli M.</u>, Cavallaro A., Hammes F. \
+19<sup>th</sup> International Symposium on Microbial Ecology, Cape Town, South Africa, 18<sup>th</sup> - 23<sup>rd</sup> August 2024.
 
 <strong>Identifying eukaryotes and factors influencing their biogeography in drinking water distribution systems metagenomes.</strong> \
 <u>Gabrielli M.</u>, Dai Z., Delafont V., Timmers P.H.A., van der Wielen P.W.J.J., Antonelli M., Pinto A.J. \
@@ -114,9 +130,9 @@ Swiss Society for Microbiology Annual Congress, Lausanne, Switzerland, 30<sup>th
 
 ## Pre-prints
 
-<strong>The impact of DNA extraction on the quantification of Legionella, with implications for ecological studies</strong> \
-Cavallaro A., <u>Gabrielli M.</u>, Hammes F., Rhoads W.J. \
-bioRxiv. 2024. DOI: <a href="https://doi.org/10.1101/2024.03.19.585788">10.1101/2024.03.19.585788</a> 
+<strong>Expansion, restructuring and characterization of the <i>Legionellaceae</i> family</strong> \
+<u>Gabrielli M.</u>, Cavallaro A., Hammes F. \
+bioRxiv. 2024. DOI: <a href="https://doi.org/10.1101/2024.10.21.619444">10.1101/2024.10.21.619444</a>
 
 <strong>Validation of drinking water distribution monitoring schemes including water demand variability and minimum detectable concentrations</strong> \
 <u>Gabrielli M.</u>, Leoni A., Di Domenico L., Antonelli M. \
@@ -125,6 +141,10 @@ engrXiv. 2023. DOI: <a href="https://doi.org/10.31224/2971">10.31224/2971</a>
 
 
 <!---
+<strong>The impact of DNA extraction on the quantification of Legionella, with implications for ecological studies</strong> \
+Cavallaro A., <u>Gabrielli M.</u>, Hammes F., Rhoads W.J. \
+bioRxiv. 2024. DOI: <a href="https://doi.org/10.1101/2024.03.19.585788">10.1101/2024.03.19.585788</a> 
+
 <strong>Adapting Bandit Algorithms for Settings with Sequentially Available Arms</strong> \
 <u>Gabrielli M.</u>, Trovò F., Antonelli M. \
 Arxiv. 2021. ArXiv: <a href="https://arxiv.org/abs/2109.15228">2109.15228</a>
