@@ -13,7 +13,9 @@ permalink: /cv/
     </span>
     <br>
     Department of Environmental Microbiology, Eawag, Switzerland <br>
-    Main topics: characterization of drinking water microbiology with focus on premise plumbings, Legionella and protists
+    Main topics: 
+    - Role of secondary metabolites in bacterial adaptation to extreme environments
+    - Characterization of drinking water microbiology with focus on premise plumbings, Legionella and protists
 </p>
 
 ## Education
@@ -140,9 +142,20 @@ See the <a href="../publications">publications</a> page.
 
 ## Teaching and related experiences
 <p style="text-align:left;">
+    <strong>Teaching assistant</strong>
+    <span style="float:right;">
+        <em>A.Y. 2019/20 - 2022/23e </em>
+    </span>
+    <br>
+    ETH, Switzerland <br>
+    Course title: Practical course in Microbiology <br>
+    Course topics: laboratory practices for environmental microbiology.
+</p>
+
+<p style="text-align:left;">
     <strong>Graduate teaching assistant</strong>
     <span style="float:right;">
-        <em>A.Y. 2019/20 - to date </em>
+        <em>A.Y. 2019/20 - 2022/23e </em>
     </span>
     <br>
     Politecnico di Milano, Italy <br>
@@ -188,7 +201,9 @@ See the <a href="../publications">publications</a> page.
 
 
 ## Other information
-- Member of the Local Organizing Committee of the 3<sup>rd</sup> International Conference on Disinfectoin and DBPs, 27<sup>th</sup> June - 1<sup>st</sup> 2022, Milan, Italy
+- Session chair at the 11<sup>th</sup> Microbial Ecology and Water Engineering (MEWE) Conference, 2<sup>nd</sup>-5<sup>th</sup> June 2025, Atlanta, USA
+- Co-organizer of the Symposium on Legionella Control in Building Plumbing Systems, 13<sup>th</sup>-14<sup>th</sup> June, Duebendorf, Switzerland
+- Member of the Local Organizing Committee of the 3<sup>rd</sup> International Conference on Disinfection and DBPs, 27<sup>th</sup> June - 1<sup>st</sup> July 2022, Milan, Italy
 - Recipient of the Center of Microbiome Science (CoMS) Travel Award (2K USD) for attendance at the 5<sup>th</sup> International Viromics Workshop
 - IWA Publishing Young Water Professionals Spotlight blog entry "Drinking water distribution systems: a land of microbiological variability" (<a href="https://www.iwapublishing.com/news/iwa-young-water-professionals-spotlight-blog-9">https://www.iwapublishing.com/news/iwa-young-water-professionals-spotlight-blog-9</a>)
 - Steering Committee member ``Technical Training Coordinator" of Young Water Professionals Italy (YWPIT) (February 2022 - to date)

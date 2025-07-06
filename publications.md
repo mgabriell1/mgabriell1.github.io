@@ -7,9 +7,13 @@ permalink: /publications/
 # Publications
 ## Peer-reviewd articles
 
+<strong>Foresight 2035: a perspective on the next decade of research on the management of <i>Legionella</i> spp. in engineered aquatic environments</strong> \
+Hammes F., <u>Gabrielli M.</u>, Cavallaro A., Eichelberg A., Barigelli S., Bigler M., Faucher S.P., Füchslin H.P., Gaia V., Gomez-Valero L., Grimard-Conea M., Haas C.N., Hamilton K.A., Healy H.G., Héchard Y., Julian T., Kieper L., Lauper U., Lefebvre X., Mäusezahl D., Ortiz C., Pereira A., Prevost M., Quon H., Roy S., Silva A.R., Sylvestre É., Tang L., Vallarino Reyes E., van der Wielen P.W.J.J, Waak M. \
+FEMS Microbiology Reviews, 2025, 49, fuaf022. DOI: <a href="https://doi.org/10.1093/femsre/fuaf022">10.1093/femsre/fuaf022</a>
+
 <strong>Dynamics of drinking water biofilm formation associated with <i>Legionella</i> spp. colonization</strong> \
 Margot C., Rhoads W.J., <u>Gabrielli M.</u>, Olive M., Hammes F. \
-npj Biofilms Microbiomes 10, 101 (2024). DOI: <a href="https://doi.org/10.1038/s41522-024-00573-x">10.1038/s41522-024-00573-x</a>
+npj Biofilms Microbiomes, 2024, 10, 101. DOI: <a href="https://doi.org/10.1038/s41522-024-00573-x">10.1038/s41522-024-00573-x</a>
 
 <strong>New Drinking Water Genome Catalog Identifies a Globally Distributed Bacterial Genus Adapted to Disinfected Drinking Water Systems</strong> \
 Sudarshan A.S., Dai Z., <u>Gabrielli M.</u>, Oosthuizen-Vosloo S., Konstantinidis K.T., Pinto A.J. \
@@ -70,9 +74,21 @@ Indagine sulla presenza nei comparti acquatici, le tecnologie di contenimento e 
 
 ## Conference presentations
 
+<strong>Eukaryotic and prokaryotic diversity patterns in building plumbing biofilms</strong>
+Gabrielli M., Hammes F. \
+Gordon Research Seminar on Microbiology of the Built Environment, Waterville Valley (NH), USA, 21<sup>th</sup> - 22<sup>th</sup> June 2025.
+
+<strong>Similar, but different: ecological and hygienic implications of intra-genus differences in drinking water biofilms</strong> \
+Gabrielli M., Hammes F. \
+11<sup>th</sup> Microbial Ecology and Water Engineering Conference, Atlanta, USA, 2<sup>nd</sup> - 5<sup>th</sup> June 2025.
+
+<strong>Small-scale biogeography of biofilms</strong> \
+Gabrielli M., Cavallaro A., Hammes F. \
+9<sup>th</sup> Meeting of the Swiss Microbial Ecology group, Einsiedeln, Switzerland, 15<sup>th</sup> - 17<sup>th</sup> January 2025.
+
 <strong>Comparative analysis of functional genes among <i>Legionella</i> species </strong> \
 <u>Gabrielli M.</u>, Cavallaro A., Hammes F. \
-7th  ESCMID Study Group for Legionella Infections Meeting, Chania, Greece, 23 - 24 October 2023.
+7<sup>th</sup>  ESCMID Study Group for Legionella Infections Meeting, Chania, Greece, 23<sup>th</sup> - 24<sup>th</sup> October 2023.
 
 <strong>Eukaryotic communities in drinking water distribution systems around the globe: composition and influencing factor</strong> \
 <u>Gabrielli M.</u>, Dai Z., Delafont V., Antonelli M., Pinto A. \
@@ -98,7 +114,7 @@ Delli Compagni R., Polesel F., von Borries K.J.F., Zhang Z., <u>Gabrielli M.</u>
 Polesel F., Gonzalez M., Delli Compagni R., von Borries K.J.F., Zhang Z., <u>Gabrielli M.</u>, Lopez C.F., Turolla A., Antonelli M., Vezzaro L., Trapp S. \
 Xenowac II, Limassol, Cyprus, 10<sup>th</sup> - 12<sup>th</sup> October 2018.
 
-## Conference posters
+<!--## Conference posters
 
 <strong>Biofilm spatial heterogeneity in plumbing systems: implications for diversity upscaling</strong> \
 <u>Gabrielli M.</u>, Cavallaro A., Hammes F. \
@@ -126,9 +142,13 @@ Swiss Society for Microbiology Annual Congress, Lausanne, Switzerland, 30<sup>th
 
 <strong>Criticalities in the microbiological monitoring of drinking water distribution systems: what could we do?</strong> \
 <u>Gabrielli M.</u>, Antonelli M. \
-9<sup>th</sup> IWA Microbial Ecology and Water Engineering Specialist Conference, Delft, Netherlands, 18<sup>th</sup> - 20<sup>th</sup> October 2021.
+9<sup>th</sup> IWA Microbial Ecology and Water Engineering Specialist Conference, Delft, Netherlands, 18<sup>th</sup> - 20<sup>th</sup> October 2021.-->
 
 ## Pre-prints
+
+<strong>Variable inhibition of different Legionella species by antagonistic bacteria</strong>
+Cavallaro A., Probst S., Duft T., Rieder M., Abo El Fateh O., Stricker J., <u>Gabrielli M.</u>, Robinson S., Hammes F. \
+bioRxiv. 2024. DOI: <a href="https://doi.org/10.1101/2024.11.27.625680">10.1101/2024.11.27.625680</a>
 
 <strong>Expansion, restructuring and characterization of the <i>Legionellaceae</i> family</strong> \
 <u>Gabrielli M.</u>, Cavallaro A., Hammes F. \
