@@ -7,9 +7,25 @@ permalink: /publications/
 # Publications
 ## Peer-reviewd articles
 
+<strong>Advancing biosynthetic pathway discovery through short read-directed long read sequencing</strong> \
+<u>Gabrielli M.</u>, Bredel A., Paoli L., Robinson S.L. \
+Natural Product Reports, 2026, in press. DOI: <a href="https://doi.org/10.1039/d6np00020g">10.1039/d6np00020g</a>
+
+<strong>Small-scale biogeography of biofilms and its implications for sequencing-based studies</strong> \
+<u>Gabrielli M.\*</u>, Hammes F. \
+ISME communications, 2026, 6(1), ycag104. DOI: <a href="https://doi.org/10.1093/ismeco/ycag104">10.1093/ismeco/ycag104</a> \*<i>: corresponding author.</i>
+
+<strong>Variable inhibition of different <i>Legionella</i> species by antagonistic bacteria</strong> \
+Cavallaro A., Probst S., Duft T., Rieder M., Abo El Fateh O., Stricker J., <u>Gabrielli M.</u>, Robinson S., Hammes F. \
+Applied and Environmental Microbiology, 2025, e01164-25. DOI: <a href="https://doi.org/10.1128/aem.01164-25">10.1128/aem.01164-25</a>
+
 <strong>Foresight 2035: a perspective on the next decade of research on the management of <i>Legionella</i> spp. in engineered aquatic environments</strong> \
 Hammes F., <u>Gabrielli M.</u>, Cavallaro A., Eichelberg A., Barigelli S., Bigler M., Faucher S.P., Füchslin H.P., Gaia V., Gomez-Valero L., Grimard-Conea M., Haas C.N., Hamilton K.A., Healy H.G., Héchard Y., Julian T., Kieper L., Lauper U., Lefebvre X., Mäusezahl D., Ortiz C., Pereira A., Prevost M., Quon H., Roy S., Silva A.R., Sylvestre É., Tang L., Vallarino Reyes E., van der Wielen P.W.J.J, Waak M. \
 FEMS Microbiology Reviews, 2025, 49, fuaf022. DOI: <a href="https://doi.org/10.1093/femsre/fuaf022">10.1093/femsre/fuaf022</a>
+
+<strong>Taxonomy versus functional potential of the microorganisms at our tap</strong> \
+<u>Gabrielli M.\*</u>
+Nature Water, 2024, 2, 12, 1143-1144. DOI: <a href="https://doi.org/10.1038/s44221-024-00359-7">10.1038/s44221-024-00359-7</a> \*<i>: corresponding author.</i>
 
 <strong>Dynamics of drinking water biofilm formation associated with <i>Legionella</i> spp. colonization</strong> \
 Margot C., Rhoads W.J., <u>Gabrielli M.</u>, Olive M., Hammes F. \
@@ -24,8 +40,8 @@ Cavallaro A., <u>Gabrielli M.</u>, Hammes F., Rhoads W.J. \
 Microbiology Spectrum 12 (8), 2024, e00713-24. DOI: <a href="https://doi.org/10.1128/spectrum.00713-24">10.1128/spectrum.00713-24</a> 
 
 <strong>Adapting Bandit Algorithms for Settings with Sequentially Available Arms</strong> \
-<u>Gabrielli M.</u>, Trovò F., Antonelli M. \
-Engineering Applications of Artificial Intelligence, 131, May 2024, 107815. DOI: <a href="https://doi.org/10.1016/j.engappai.2023.107815">10.1016/j.engappai.2023.107815</a>
+<u>Gabrielli M.\*</u>, Trovò F., Antonelli M. \
+Engineering Applications of Artificial Intelligence, 131, May 2024, 107815. DOI: <a href="https://doi.org/10.1016/j.engappai.2023.107815">10.1016/j.engappai.2023.107815</a> \*<i>: corresponding author.</i>
 
 <strong>Source to taps investigation of natural organic matter in non-disinfected drinking water distribution systems</strong> \
 <u>Gabrielli M.</u>, Pulcini F., Barbesti G., Antonelli M. \
@@ -58,7 +74,35 @@ Journal of Environmental Management, 286, May 2021, 112151. 2021. DOI: <a href="
 <strong>Risk assessment of contaminants  of  emerging  concern  in  the  context  of  wastewater  reuse  for  irrigation:  An  integrated  modelling approach </strong> \
 Delli Compagni R., <u>Gabrielli M.</u>, Polesel F., Turolla A., Trapp S., Vezzaro L., Antonelli M. \
 Chemosphere, 242, March 2020, 125185. 2020. DOI: <a href="https://doi.org/10.1016/j.chemosphere.2019.125185">10.1016/j.chemosphere.2019.125185</a>
-	
+
+
+## Pre-prints
+
+<strong>16S and 18S sequencing reveals coupled prokaryotic and eukaryotic relationships in drinking water biofilms</strong> \
+Caligaris L., Hammes F., Cristino S., <u>Gabrielli M.\*</u> \
+medRxiv. 2026. DOI: <a href="https://doi.org/10.64898/2026.10.29.26366860">10.64898/2026.10.29.26366860</a>
+
+
+<strong>Amino acid auxotrophy is a feature of a distinct bacterial lifestyle across environments</strong> \
+Henderson A., <u>Gabrielli M.</u>, Szabo R., Eren A.M., Ackermann M., Schubert O.T. \
+bioRxiv. 2026. DOI: <a href="https://doi.org/10.64898/2026.06.03.729626">10.64898/2026.06.03.729626</a>
+
+<strong>Advancing Legionella pneumophila genomic surveillance with a high-resolution cg/wgMLST schema for outbreak detection and investigation</strong> \
+Mixão V., Ginevra C., Jacqueline C., Jarraud S., <u>Gabrielli M.</u>, Gomes J.P., Willby M.J., Hamlin J.A.P., Borges V. \
+medRxiv. 2026. DOI: <a href="https://doi.org/10.64898/2026.02.18.26346554">10.64898/2026.02.18.26346554</a>
+
+<strong>Siderophore-mediated inhibition of <i>Legionella</i> pneumophila by environmental <i>Pseudomonas</i> isolates</strong> \
+Cavallaro A., Kohler J., <u>Gabrielli M.</u>, Vollenweider V., Kuemmerli R., Hammes F. \
+bioRxiv. 2024. DOI: <a href="https://doi.org/10.64898/2026.01.19.700273">10.64898/2026.01.19.700273</a>
+
+<strong>Expansion, restructuring and characterization of the <i>Legionellaceae</i> family</strong> \
+<u>Gabrielli M.\*</u>, Cavallaro A., Hammes F. \
+bioRxiv. 2024. DOI: <a href="https://doi.org/10.1101/2024.10.21.619444">10.1101/2024.10.21.619444</a> \*<i>: corresponding author.</i>
+
+<strong>Validation of drinking water distribution monitoring schemes including water demand variability and minimum detectable concentrations</strong> \
+<u>Gabrielli M.</u>, Leoni A., Di Domenico L., Antonelli M. \
+engrXiv. 2023. DOI: <a href="https://doi.org/10.31224/2971">10.31224/2971</a>
+
 
 ## Book chapters
 
@@ -143,20 +187,6 @@ Swiss Society for Microbiology Annual Congress, Lausanne, Switzerland, 30<sup>th
 <strong>Criticalities in the microbiological monitoring of drinking water distribution systems: what could we do?</strong> \
 <u>Gabrielli M.</u>, Antonelli M. \
 9<sup>th</sup> IWA Microbial Ecology and Water Engineering Specialist Conference, Delft, Netherlands, 18<sup>th</sup> - 20<sup>th</sup> October 2021.-->
-
-## Pre-prints
-
-<strong>Variable inhibition of different Legionella species by antagonistic bacteria</strong>
-Cavallaro A., Probst S., Duft T., Rieder M., Abo El Fateh O., Stricker J., <u>Gabrielli M.</u>, Robinson S., Hammes F. \
-bioRxiv. 2024. DOI: <a href="https://doi.org/10.1101/2024.11.27.625680">10.1101/2024.11.27.625680</a>
-
-<strong>Expansion, restructuring and characterization of the <i>Legionellaceae</i> family</strong> \
-<u>Gabrielli M.</u>, Cavallaro A., Hammes F. \
-bioRxiv. 2024. DOI: <a href="https://doi.org/10.1101/2024.10.21.619444">10.1101/2024.10.21.619444</a>
-
-<strong>Validation of drinking water distribution monitoring schemes including water demand variability and minimum detectable concentrations</strong> \
-<u>Gabrielli M.</u>, Leoni A., Di Domenico L., Antonelli M. \
-engrXiv. 2023. DOI: <a href="https://doi.org/10.31224/2971">10.31224/2971</a>
 
 
 

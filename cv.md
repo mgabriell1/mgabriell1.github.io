@@ -119,7 +119,36 @@ permalink: /cv/
 
 See the <a href="../publications">publications</a> page.
 
+## Grants
+- SGM-SSM Event Support grant (5K CHF) and Roche REDS Fund (3K CHF) for the organization of the Zurich hub at MEEHubs2026 conference
+- SGM-SSM Travel Award (500 CHF) for attendance to 2025 Gordon Research Conference on Microbiology of the Built Environment (Waterville Valley, USA)
+- Eawag discretionary funding (112K CHF, co-applicant) for the study of Legionella in Swiss wastewater treatment plants
+- SNSF Scientific Exchanges Grant (9.9K CHF, grant nr. ZSEZ0 225679, co-applicant) for the organization of a Legionella-focused scientific symposium
+- ESCMID Attendance Grant (500 EUR) for participanting in a ESCMID Postgraduate Education Course (Lausanne, Switzerland)
+- Center of Microbiome Science (CoMS) Travel Award (2K USD) for the attendance of 5th International Viromics Workshop (Ohio State University, USA)
+- Ph.D. scholarship (75K EUR) in Environmental and Land Planning Engineering sponsored by italian water utility Gruppo CAP S.p.A.
+- Politecnico di Milano “Tesi all’estero” Grant (2K EUR) to carry out M.Sc. thesis activities at Danmarks Tekniske Universitet (Denmark)
+- Erasmus Mobility Grant (4K EUR) to attend courses at Danmarks Tekniske Universitet (Denmark)
+
 ## Invited talks
+
+<p style="text-align:left;">
+    <strong>Charting evolution through lifestyles and environments</strong>
+    <span style="float:right;">
+        <em>20<sup>th</sup> November 2026</em>
+    </span>
+    <br>
+    Life in Flux: microbial metabolic diversity, ecology and engineering, University of Lausanne (CH)
+</p>
+
+<p style="text-align:left;">
+    <strong>It takes a microbial village: Integrating microbial ecology and next-generation monitoring for pathogen control in water systems</strong>
+    <span style="float:right;">
+        <em>9<sup>th</sup> June 2026</em>
+    </span>
+    <br>
+    Day Symposium, Institute of Hygiene and Applied Immunology at the Medical University of Vienna (AT)
+</p>
 
 <p style="text-align:left;">
     <strong>Drinking water distribution systems: a land of microbiological variability</strong>
@@ -149,7 +178,7 @@ See the <a href="../publications">publications</a> page.
     <br>
     ETH, Switzerland <br>
     Course title: Practical course in Microbiology <br>
-    Course topics: laboratory practices for environmental microbiology.
+    Course topics: laboratory practices for environmental microbiology, amplicon sequencing and antibiotic resistance.
 </p>
 
 <p style="text-align:left;">
@@ -197,14 +226,16 @@ See the <a href="../publications">publications</a> page.
 </p>
 
 	
-<strong>M.Sc. thesis co-advisor</strong> of environmental and computer science engineering students at Politecnico di Milano, Italy.
+<strong>M.Sc. thesis co-advisor</strong> of environmental and computer science engineering students at Politecnico di Milano (IT) and ETH Zurich (CH).
 
 
 ## Other information
+- Co-organizer for the Zurich hub of the hub-based conference of Microbial Ecology and Evolution (MEEHubs2026), 3<sup>rd</sup>-5<sup>th</sup> August 2026, Zurich, Switzerland
+- Co-chair of Eawag Postdoctoral Scientists Association (April 2025 - April 2026)
 - Session chair at the 11<sup>th</sup> Microbial Ecology and Water Engineering (MEWE) Conference, 2<sup>nd</sup>-5<sup>th</sup> June 2025, Atlanta, USA
 - Co-organizer of the Symposium on Legionella Control in Building Plumbing Systems, 13<sup>th</sup>-14<sup>th</sup> June, Duebendorf, Switzerland
+Member of the departmental seminar committee in the Department of Environmental Microbiology at Eawag (May 2023 - May 2025)
 - Member of the Local Organizing Committee of the 3<sup>rd</sup> International Conference on Disinfection and DBPs, 27<sup>th</sup> June - 1<sup>st</sup> July 2022, Milan, Italy
-- Recipient of the Center of Microbiome Science (CoMS) Travel Award (2K USD) for attendance at the 5<sup>th</sup> International Viromics Workshop
 - IWA Publishing Young Water Professionals Spotlight blog entry "Drinking water distribution systems: a land of microbiological variability" (<a href="https://www.iwapublishing.com/news/iwa-young-water-professionals-spotlight-blog-9">https://www.iwapublishing.com/news/iwa-young-water-professionals-spotlight-blog-9</a>)
 - Steering Committee member ``Technical Training Coordinator" of Young Water Professionals Italy (YWPIT) (February 2022 - to date)
 - Member of the Local Organizing Committee of 5<sup>th</sup> IWA International Conference on eco-Technologies for Wastewater Treatment (EcoSTP), 21<sup>st</sup> - 25<sup>th</sup> June 2021, Milan, Italy
